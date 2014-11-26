@@ -7,7 +7,7 @@
 # Note: Edit refdir below to point to where the reference files are.
 
 use strict;
-my $refdir = "/home/scf-23/anveshas/hw2/test_cases"; # directory where the reference files are
+my $refdir = "test_cases"; # directory where the reference files are
 
 # First build:
 my $student = shift;
