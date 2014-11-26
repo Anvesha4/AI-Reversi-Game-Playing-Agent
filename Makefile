@@ -1,4 +1,4 @@
-### CSCI561 - Fall 2014 - Sample Makefile
+### Makefile
 
 ### Example for a C++ agent:
 agent: agent.cpp
@@ -7,7 +7,7 @@ agent: agent.cpp
 run: agent
 	./agent
 
-### For Java you might use:
+### For Java:
 #agent: agent.class
 #	
 #agent.class: agent.java
