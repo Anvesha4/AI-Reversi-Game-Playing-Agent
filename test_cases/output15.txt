@@ -1,0 +1,14 @@
+OOOOOOOO
+OOOOOOOO
+OOOOOOOO
+OOOOOOO*
+OOOOOO**
+OOOOOO*X
+OOOOOOO*
+OOOOOOOO
+Node,Depth,Value,Alpha,Beta
+root,0,-Infinity,-Infinity,Infinity
+pass,1,Infinity,-Infinity,Infinity
+pass,2,-339,-Infinity,Infinity
+pass,1,-339,-Infinity,-339
+root,0,-339,-339,Infinity
