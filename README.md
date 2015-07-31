@@ -1,6 +1,6 @@
 #AI Reversi Game Playing Agent
 
-The agent predicts the next move in the game, using the following three algorithms
+The AI agent predicts the next move for a player in the Reversi game using the Greedy, MinMax, and Alpha-Beta pruning algorithms with positional weight evaluation functions as heuristic. Following three algorithms are used.
 
 1. Greedy
 2. MinMax
